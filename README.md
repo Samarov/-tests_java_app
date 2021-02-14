@@ -1,2 +1,2 @@
 # -tests_java_app
-tests
+test 1
